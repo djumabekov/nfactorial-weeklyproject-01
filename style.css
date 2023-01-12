@@ -144,7 +144,7 @@ body{
 .visual-content{
     display: block;
     position: relative;
-    width: 50%;
+    width: 500px;
 }
 
 .visual-content-image{
@@ -354,7 +354,7 @@ body{
 .cv-submission-visual-content{
     display: block;
     position: relative;
-    width: 50%;
+    width: 500px;
 }
 
 .cv-submission-visual-content-image{
